@@ -47,6 +47,7 @@ export default function Home() {
             <hr />
             <h2>{post.title}</h2>
             <h2>{post.author}</h2>
+            <p>resently updated git</p>
             <hr />
         </div> )
       })}</div>
